@@ -2,8 +2,8 @@
 
 ## Pre-requisite Setup
 1. Clone this respository locally
-2. Install .NET Core 2.2 []
-3. Install Visual Studio[] or Visual Studio Code
+2. Install [.NET Core 2.2](https://dotnet.microsoft.com/download/)
+3. Install [Visual Studio](https://visualstudio.microsoft.com/downloads/) or [Visual Studio Code](https://code.visualstudio.com/)
 4. Have a valid Azure Subscription (we will use less than £1 today!)
 
 ## What we will learn?

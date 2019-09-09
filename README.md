@@ -1,1 +1,18 @@
-# ProgNet_CognitiveServices
+# Cognitive Services Workshop
+
+## Pre-requisite Setup
+1. Clone this respository locally
+2. Install .NET Core 2.2 []
+3. Install Visual Studio[] or Visual Studio Code
+4. Have a valid Azure Subscription (we will use less than £1 today!)
+
+## What we will learn?
+We will learn how to use Cognitive Services in our application.
+We will create ASP.NET Core app, Logic Apps and use Custom Cognitive Services to understand how to create a models
+
+## Activities
+
+| Activity | Topics |
+| ---- | ---- |
+| [Activity #1](/activities/01-CreatingComputerVisionAPI.md) | Creating Computer Vision API |
+ 

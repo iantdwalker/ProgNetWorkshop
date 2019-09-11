@@ -51,7 +51,7 @@ namespace ImageAnalyse.Controllers
         string confidence;
 
         using (var httpClient = new HttpClient()){
-          string baseUri = _appSettings.VisionApiEnpoint + "/vision/v2.0/describe";
+          string baseUri = _appSettings.VisionApiUri + "/vision/v2.0/describe";
 
           httpClient.BaseAddress = new Uri(baseUri);
           httpClient.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", _appSettings.VisionApiKey);

@@ -17,4 +17,5 @@ We will create ASP.NET Core app, Logic Apps and use Custom Cognitive Services to
 | [Activity #1](/activities/01-CreatingComputerVisionAPI.md) | Creating Computer Vision API |
 | [Activity #2](/activities/02-CreatingASPNETCore.md) | Creating ASP.NET Core application |
 | [Activity #3](/activities/03-CreateCustomVision.md) | Creating Custom Vision |
+| [Activity #4](/activities/04-CreateLogicApp.md) | Creating Logic Apps |
  

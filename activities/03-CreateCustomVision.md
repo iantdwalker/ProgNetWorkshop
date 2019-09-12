@@ -77,6 +77,7 @@
 ![Custom Vision](../images/03-CreateCustomVision/29.CustomVision.PNG)
 
 13. Train once again the model
+
 ![Custom Vision](../images/03-CreateCustomVision/30.CustomVision.PNG)
 
 14. Now we have our Iteration 2 and we can go an publish our model

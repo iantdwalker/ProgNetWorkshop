@@ -4,19 +4,19 @@
 ### Creating Text Analytics
 
 1. Select Create a resource and search Cognitive Services and choose Enter. Then select Create on the Cognitive Services blade
-![Text Analytics](../images/05-TextAnalytics/01.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/01.TextAnalytics.PNG)
 
 2. Enter details to create an account like below:
-![Text Analytics](../images/05-TextAnalytics/02.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/02.TextAnalytics.PNG)
 
 3. Get your key and Enpoint 
-![Text Analytics](../images/05-TextAnalytics/03.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/03.TextAnalytics.PNG)
 
 4. Open PostMan and create a new Request
-![Text Analytics](../images/05-TextAnalytics/04.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/04.TextAnalytics.PNG)
 
 5. Enter request details and create a new collection and save it
-![Text Analytics](../images/05-TextAnalytics/05.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/05.TextAnalytics.PNG)
 
 6. Now create a request to call your text analytics API:
 * Change from a GET request to a POST request in the top left
@@ -24,7 +24,7 @@
 * Select Headers underneath the URL box
 * In Key type ``Ocp-Apim-Subscription-Key`` and in Value add your KEY1 value
 * In Key type ``Content-Type`` and in Value type ``application/json``
-![Text Analytics](../images/05-TextAnalytics/06.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/06.TextAnalytics.PNG)
 
 
 7. 
@@ -32,12 +32,12 @@
 * Select raw from the radio button options
 * Copy JSON sample from [sentiment-analysis-text.json](https://github.com/gosiaborzecka/ProgNetWorkshop/blob/master/steps/05-TextAnalytics/sentiment-analysis-text.json) into the box
 
-![Text Analytics](../images/05-TextAnalytics/07.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/07.TextAnalytics.PNG)
 
 8. Select the Send button and review the Response
-![Text Analytics](../images/05-TextAnalytics/08.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/08.TextAnalytics.PNG)
 
 9. Copy JSON sample from [sentiment-analysis-text-fr.json](https://github.com/gosiaborzecka/ProgNetWorkshop/blob/master/steps/05-TextAnalytics/sentiment-analysis-text-fr.json) into the box
-![Text Analytics](../images/05-TextAnalytics/09.TextAnalytics.png)
+![Text Analytics](../images/05-TextAnalytics/09.TextAnalytics.PNG)
 
-## Add other APIs that you will use in future and test them in the PostMan
+## Add other APIs that you will use in future and test them in the Postman

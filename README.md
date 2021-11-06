@@ -1,3 +1,5 @@
+ProgNET September 2019: Cognitive Services Workshop. No longer actively being worked on.
+
 # Cognitive Services Workshop
 
 ## Pre-requisite Setup
